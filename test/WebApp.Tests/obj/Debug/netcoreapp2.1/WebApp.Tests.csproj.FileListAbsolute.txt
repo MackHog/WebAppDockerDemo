@@ -1,0 +1,14 @@
+C:\VS\WebAppDockerDemo\test\WebApp.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\VS\WebAppDockerDemo\test\WebApp.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\VS\WebAppDockerDemo\test\WebApp.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\VS\WebAppDockerDemo\test\WebApp.Tests\bin\Debug\netcoreapp2.1\WebApp.Tests.deps.json
+C:\VS\WebAppDockerDemo\test\WebApp.Tests\bin\Debug\netcoreapp2.1\WebApp.Tests.runtimeconfig.json
+C:\VS\WebAppDockerDemo\test\WebApp.Tests\bin\Debug\netcoreapp2.1\WebApp.Tests.runtimeconfig.dev.json
+C:\VS\WebAppDockerDemo\test\WebApp.Tests\bin\Debug\netcoreapp2.1\WebApp.Tests.dll
+C:\VS\WebAppDockerDemo\test\WebApp.Tests\bin\Debug\netcoreapp2.1\WebApp.Tests.pdb
+C:\VS\WebAppDockerDemo\test\WebApp.Tests\obj\Debug\netcoreapp2.1\WebApp.Tests.csprojAssemblyReference.cache
+C:\VS\WebAppDockerDemo\test\WebApp.Tests\obj\Debug\netcoreapp2.1\WebApp.Tests.csproj.CoreCompileInputs.cache
+C:\VS\WebAppDockerDemo\test\WebApp.Tests\obj\Debug\netcoreapp2.1\WebApp.Tests.AssemblyInfoInputs.cache
+C:\VS\WebAppDockerDemo\test\WebApp.Tests\obj\Debug\netcoreapp2.1\WebApp.Tests.AssemblyInfo.cs
+C:\VS\WebAppDockerDemo\test\WebApp.Tests\obj\Debug\netcoreapp2.1\WebApp.Tests.dll
+C:\VS\WebAppDockerDemo\test\WebApp.Tests\obj\Debug\netcoreapp2.1\WebApp.Tests.pdb

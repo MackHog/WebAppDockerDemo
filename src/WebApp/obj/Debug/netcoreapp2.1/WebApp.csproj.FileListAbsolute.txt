@@ -1,0 +1,14 @@
+C:\VS\WebAppDockerDemo\src\WebApp\bin\Debug\netcoreapp2.1\WebApp.deps.json
+C:\VS\WebAppDockerDemo\src\WebApp\bin\Debug\netcoreapp2.1\WebApp.runtimeconfig.json
+C:\VS\WebAppDockerDemo\src\WebApp\bin\Debug\netcoreapp2.1\WebApp.runtimeconfig.dev.json
+C:\VS\WebAppDockerDemo\src\WebApp\bin\Debug\netcoreapp2.1\WebApp.dll
+C:\VS\WebAppDockerDemo\src\WebApp\bin\Debug\netcoreapp2.1\WebApp.pdb
+C:\VS\WebAppDockerDemo\src\WebApp\obj\Debug\netcoreapp2.1\WebApp.csprojAssemblyReference.cache
+C:\VS\WebAppDockerDemo\src\WebApp\obj\Debug\netcoreapp2.1\WebApp.csproj.CoreCompileInputs.cache
+C:\VS\WebAppDockerDemo\src\WebApp\obj\Debug\netcoreapp2.1\WebApp.RazorAssemblyInfo.cache
+C:\VS\WebAppDockerDemo\src\WebApp\obj\Debug\netcoreapp2.1\WebApp.RazorAssemblyInfo.cs
+C:\VS\WebAppDockerDemo\src\WebApp\obj\Debug\netcoreapp2.1\WebApp.AssemblyInfoInputs.cache
+C:\VS\WebAppDockerDemo\src\WebApp\obj\Debug\netcoreapp2.1\WebApp.AssemblyInfo.cs
+C:\VS\WebAppDockerDemo\src\WebApp\obj\Debug\netcoreapp2.1\WebApp.RazorTargetAssemblyInfo.cache
+C:\VS\WebAppDockerDemo\src\WebApp\obj\Debug\netcoreapp2.1\WebApp.dll
+C:\VS\WebAppDockerDemo\src\WebApp\obj\Debug\netcoreapp2.1\WebApp.pdb
